@@ -44,65 +44,106 @@ reverseString('hello')
 // What is the input to each recursive call? -- 
 // What is the output of each recursive call? -- 
 
-function triangleNumber(n) {
-    if (n <= 1) {
+// function triangleNumber(n) {
+//     if (n === 45) {
+//         return 'n';
+//     }
+//     console.log(n)
+//     triangleNumber(n * (n + 1) / 2);
+// }
+
+// triangleNumber(6)
+
+// What is the input to the program? -- 
+// What is the output of the program? -- 
+// What is the input to each recursive call? -- 
+// What is the output of each recursive call? -- 
+
+function stringSplitter(spt) {
+    if () {
         return;
     }
-    console.log(n)
-    triangleNumber(n * (n + 1) / 2);
+
 }
 
-triangleNumber(6)
+// What is the input to the program? -- 
+// What is the output of the program? -- 
+// What is the input to each recursive call? -- 
+// What is the output of each recursive call? -- 
+
+function fibonacci(spiral) {
+    if () {
+        return;
+    }
+
+}
 
 // What is the input to the program? -- 
 // What is the output of the program? -- 
 // What is the input to each recursive call? -- 
 // What is the output of each recursive call? -- 
 
+function factorial(number) {
+    if () {
+        return;
+    }
 
-
-// What is the input to the program? -- 
-// What is the output of the program? -- 
-// What is the input to each recursive call? -- 
-// What is the output of each recursive call? -- 
-
-
+}
 
 // What is the input to the program? -- 
 // What is the output of the program? -- 
 // What is the input to each recursive call? -- 
 // What is the output of each recursive call? -- 
 
-
-
-
-// What is the input to the program? -- 
-// What is the output of the program? -- 
-// What is the input to each recursive call? -- 
-// What is the output of each recursive call? -- 
-
-
+function maze(turns) {
+    if () {
+        return;
+    }
+}
 
 // What is the input to the program? -- 
 // What is the output of the program? -- 
 // What is the input to each recursive call? -- 
 // What is the output of each recursive call? -- 
 
-
-
-// What is the input to the program? -- 
-// What is the output of the program? -- 
-// What is the input to each recursive call? -- 
-// What is the output of each recursive call? -- 
-
-
+function mazeAll(turn) {
+    if () {
+        return;
+    }
+}
 
 // What is the input to the program? -- 
 // What is the output of the program? -- 
 // What is the input to each recursive call? -- 
 // What is the output of each recursive call? -- 
 
+function anagrams(words) {
+    if () {
+        return;
+    }
+}
 
+// What is the input to the program? -- 
+// What is the output of the program? -- 
+// What is the input to each recursive call? -- 
+// What is the output of each recursive call? -- 
+
+function organizationChart(chart) {
+    if () {
+        return;
+    }
+}
+
+// What is the input to the program? -- 
+// What is the output of the program? -- 
+// What is the input to each recursive call? -- 
+// What is the output of each recursive call? -- 
+
+function binaryRep(number) {
+    if () {
+        return;
+    }
+}
 
 // What is the input to the program? -- 
 // What is the output of the program? -- 
